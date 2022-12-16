@@ -12,7 +12,8 @@ App custom creada para el bootcamp de Vtex en IT Globers
 
 La app se encuentra funcionando en el area de trabajo  https://crsandoval--itgloberspartnercl.myvtex.com/
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png)
+![Fotografia 1](https://imagizer.imageshack.com/img924/3325/XORBGd.png)
+![Forografia 2](https://imagizer.imageshack.com/img922/2729/uFNKDH.png)
 
 ## Configuracion 
 
